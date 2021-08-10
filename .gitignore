@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+data/modified/Allgeier_FullStoicDataset_woPalmyra
+data/raw/Caribbean_Compiled_2009-2013.csv
+data/raw/FG.course.csv
+data/raw/Moorea_Compiled_2016_2017_Update-12-2019.csv
+data/raw/Moorea_FunctionaGroups.csv
+data/raw/traits_gaspar.csv
